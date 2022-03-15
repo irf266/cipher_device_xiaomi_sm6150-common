@@ -1,3 +1,6 @@
+# Maintainer
+ro.cipher.maintainer=irf266
+
 # Bluetooth
 vendor.bluetooth.soc=cherokee
 
